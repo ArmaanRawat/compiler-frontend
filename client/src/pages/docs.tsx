@@ -21,7 +21,7 @@ export default function DocsPage() {
             </button>
           </Link>
           <h1 className="text-4xl font-bold bg-gradient-to-r from-purple-600 to-cyan-600 bg-clip-text text-transparent mb-4">
-            PT Documentation
+            Ar Docs
           </h1>
           <p className="text-xl text-muted-foreground">
             Complete guide to using Ar Compiler
